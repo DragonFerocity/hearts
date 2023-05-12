@@ -1,8 +1,0 @@
-Setup virtual environment with
-python -m venv .venv
-
-To install packages
-pip install requirements.txt
-
-Make executable with Pyinstaller
-pyinstaller mainAI.py
