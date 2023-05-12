@@ -1,0 +1,72 @@
+('C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+ 'Hearts\\build\\mainAI\\mainAI.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\build\\mainAI\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\build\\mainAI\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\build\\mainAI\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\build\\mainAI\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\build\\mainAI\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\build\\mainAI\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\jacob hume\\my stuff\\python\\smart '
+   'hearts\\.venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart '
+   'Hearts\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('mainAI',
+   'C:\\Users\\Jacob Hume\\My Stuff\\Python\\Smart Hearts\\mainAI.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
