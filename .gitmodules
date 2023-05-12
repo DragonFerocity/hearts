@@ -1,6 +1,6 @@
 [submodule "randomAI"]
-	path = randomAI
+	path = players/randomAI
 	url = https://github.com/DragonFerocity/hearts-random-ai
 [submodule "smart-hearts"]
-	path = smart-hearts
+	path = players/smart-hearts
 	url = https://github.com/Jacoberic/Smart-Hearts.git
